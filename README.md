@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohasindkhan
 - 👀 I’m interested in Full Stack Dev.
 - 🌱 I’m currently working as a Salesforce Developer/Consultant.
-- 💞️ I’m looking to collaborate on Git.
+- 💞️ I’m looking to collaborate for multiple projects.
 - 📫 Reach me on kmohsin04@gmail.com for any project/collaboration.
 
 <!---
